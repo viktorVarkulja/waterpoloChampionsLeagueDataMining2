@@ -14,6 +14,11 @@ The project utilizes **Python** in a Jupyter Notebook environment, leveraging ke
 ### Data Source  
 The dataset was obtained using Selenium to scrape data from the official LEN Champions League website. It includes game results and statistics from the group stage of the 2023/2024 season. The Final Four data was excluded as the matches were not played at the time of analysis.  
 
+## Motivation  
+
+Sports analytics drives success across major sports, but water polo still lacks data-driven insights.  
+This project shows how machine learning can change that by making match data usable for **prediction, visualization, and performance analysis**, setting a foundation for future work such as **neural-network-based performance forecasting**.
+
 ### Workflow  
 
 1. **Data Collection**:  
